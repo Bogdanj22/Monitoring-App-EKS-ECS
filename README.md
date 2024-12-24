@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 This project uses Python to create a simple application, then Dockerizes the app for containerization. The Docker image is pushed to AWS Elastic Container Registry (ECR) for storage. Finally, the image is deployed on AWS Elastic Kubernetes Service (EKS) to manage and scale the application.
 
 Features
